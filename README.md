@@ -1,3 +1,3 @@
 # BasicCrudApp
 
-run node app.js
+To run: node app.js
