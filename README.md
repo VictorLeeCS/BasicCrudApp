@@ -1,6 +1,6 @@
 # BasicCrudApp
 
-A really simple CRUD app using the MERN stack.
+A really simple CRUD app using the Mongo, Node Js, Express.
 
 To run: 
 
